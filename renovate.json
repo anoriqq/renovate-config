@@ -14,6 +14,14 @@
     "automerge": true,
     "groupName": "Patch updates"
   },
+  "pin": {
+    "automerge": true,
+    "groupName": "Pin updates"
+  },
+  "digest": {
+    "automerge": true,
+    "groupName": "Digest updates"
+  },
   "lockFileMaintenance": {
     "enabled": true,
     "automerge": true,
