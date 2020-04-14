@@ -1,0 +1,14 @@
+{
+  "name": "renovate-config",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:anoriqq/renovate-config.git",
+  "author": "anoriqq <shota.yoshikawa@anoriqq.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "renovate-config-validator"
+  },
+  "devDependencies": {
+    "renovate": "^19.207.1"
+  }
+}
