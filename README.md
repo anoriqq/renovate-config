@@ -8,7 +8,9 @@ Just `extends` in `renovate.json`.
 
 ```json:renovate.json
 {
-  "extends": ["@anoriqq"]
+  "extends": [
+    "github>anoriqq/renovate-config"
+  ]
 }
 ```
 
