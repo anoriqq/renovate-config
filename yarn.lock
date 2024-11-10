@@ -1017,11 +1017,11 @@
     tslib "^2.3.1"
 
 "@aws-sdk/types@^3.222.0":
-  version "3.679.0"
-  resolved "https://registry.yarnpkg.com/@aws-sdk/types/-/types-3.679.0.tgz#3737bb0f190add9e788b838a24cd5d8106dbed4f"
-  integrity sha512-NwVq8YvInxQdJ47+zz4fH3BRRLC6lL+WLkvr242PVBbUOLRyK/lkwHlfiKUoeVIMyK5NF+up6TRg71t/8Bny6Q==
+  version "3.686.0"
+  resolved "https://registry.yarnpkg.com/@aws-sdk/types/-/types-3.686.0.tgz#01aa5307c727de9e69969c538f99ae8b53f1074f"
+  integrity sha512-xFnrb3wxOoJcW2Xrh63ZgFo5buIu9DF7bOHnwoUxHdNpUXicUh0AHw85TjXxyxIAd0d1psY/DU7QHoNI3OswgQ==
   dependencies:
-    "@smithy/types" "^3.5.0"
+    "@smithy/types" "^3.6.0"
     tslib "^2.6.2"
 
 "@aws-sdk/url-parser@3.272.0":
@@ -1738,7 +1738,7 @@
   resolved "https://registry.yarnpkg.com/@sindresorhus/is/-/is-4.6.0.tgz#3c7c9c46e678feefe7a2e5bb609d3dbd665ffb3f"
   integrity sha512-t09vSN3MdfsyCHoFcTRCH/iUtG7OJ0CsjzB8cjAmKc/va/kIgeDI/TxsigdncE/4be734m0cvIYwNaV4i2XqAw==
 
-"@smithy/types@^3.5.0":
+"@smithy/types@^3.6.0":
   version "3.6.0"
   resolved "https://registry.yarnpkg.com/@smithy/types/-/types-3.6.0.tgz#03a52bfd62ee4b7b2a1842c8ae3ada7a0a5ff3a4"
   integrity sha512-8VXK/KzOHefoC65yRgCn5vG1cysPJjHnOVt9d0ybFQSmJgQj152vMn4EkYhGuaOmnnZvCPav/KnYyE6/KsNZ2w==
@@ -1878,9 +1878,9 @@
   integrity sha512-iiUgKzV9AuaEkZqkOLDIvlQiL6ltuZd9tGcW3gwpnX8JbuiuhFlEGmmFXEXkN50Cvq7Os88IY2v0dkDqXYWVgA==
 
 "@types/node@*":
-  version "22.8.7"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-22.8.7.tgz#04ab7a073d95b4a6ee899f235d43f3c320a976f4"
-  integrity sha512-LidcG+2UeYIWcMuMUpBKOnryBWG/rnmOHQR5apjn8myTQcx3rinFRn7DcIFhMnS0PPFSC6OafdIKEad0lj6U0Q==
+  version "22.9.0"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-22.9.0.tgz#b7f16e5c3384788542c72dc3d561a7ceae2c0365"
+  integrity sha512-vuyHg81vvWA1Z1ELfvLko2c8f34gyA0zaic0+Rllc5lbCnbSyuvb2Oxpm6TAUAC/2xZN3QGqxBNggD1nNR2AfQ==
   dependencies:
     undici-types "~6.19.8"
 
@@ -4055,9 +4055,9 @@ nth-check@^2.0.1:
     boolbase "^1.0.0"
 
 object-inspect@^1.13.1:
-  version "1.13.2"
-  resolved "https://registry.yarnpkg.com/object-inspect/-/object-inspect-1.13.2.tgz#dea0088467fb991e67af4058147a24824a3043ff"
-  integrity sha512-IRZSRuzJiynemAXPYtPe5BoI/RESNYR7TYm50MC5Mqbd3Jmw5y790sErYw3V6SryFJD64b74qQQs9wn5Bg/k3g==
+  version "1.13.3"
+  resolved "https://registry.yarnpkg.com/object-inspect/-/object-inspect-1.13.3.tgz#f14c183de51130243d6d18ae149375ff50ea488a"
+  integrity sha512-kDCGIbxkDSXE3euJZZXzc6to7fCrKHNI/hSRQnRuQ+BWjFNzZwiFF8fj/6o2t2G9/jTj8PSIYTfCLelLZEeRpA==
 
 object-keys@^1.1.1:
   version "1.1.1"
