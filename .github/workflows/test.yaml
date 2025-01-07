@@ -12,7 +12,7 @@ jobs:
 
     strategy:
       matrix:
-        node-version: [latest]
+        node-version: ["lts/*"]
 
       fail-fast: false
 
