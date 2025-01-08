@@ -1,4 +1,4 @@
-# renovate-config [![GitHub release (latest by date)](https://img.shields.io/github/v/release/anoriqq/renovate-config?style=flat-square)](https://github.com/anoriqq/ci-cd/releases) [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/anoriqq/renovate-config/Validate%20renovate%20config?style=flat-square)](https://github.com/anoriqq/renovate-config/actions)
+# renovate-config [![GitHub release (latest by date)](https://img.shields.io/github/v/release/anoriqq/renovate-config?style=flat-square)](https://github.com/anoriqq/ci-cd/releases) [![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/anoriqq/renovate-config/test.yaml?style=flat-square)](https://github.com/anoriqq/renovate-config/actions/workflows/test.yaml)
 
 Shareable config for <https://renovatebot.com>
 
