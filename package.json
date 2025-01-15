@@ -9,6 +9,6 @@
     "test": "renovate-config-validator"
   },
   "devDependencies": {
-    "renovate": "39.107.0"
+    "renovate": "39.107.2"
   }
 }
