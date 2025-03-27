@@ -1193,10 +1193,10 @@
     core-js-pure "^3.30.2"
     regenerator-runtime "^0.14.0"
 
-"@baszalmstra/rattler@0.2.0":
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/@baszalmstra/rattler/-/rattler-0.2.0.tgz#94452354cf72475a1f1d0d7d50264ea5af09e2c5"
-  integrity sha512-Dkcy5TXmlNvU8LAvagfBHYOFnBHlKYeBiMljG8Iln6ZmQSkeHgO3yo69A4Rs3Lv6DSH3pSrun7LHdaxv99l4tg==
+"@baszalmstra/rattler@0.2.1":
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/@baszalmstra/rattler/-/rattler-0.2.1.tgz#a3db765b65ff657c69ba8344b6ff67dfa0f6564a"
+  integrity sha512-HZ2xu6Nk+XzAeateyzDKYM47ySkjkuKtTNpKRAy+Y+YcRH1qHM2le4iLlG32wDddaHCLUsBsyBxirClOj1TLjw==
 
 "@breejs/later@4.2.0":
   version "4.2.0"
@@ -5162,10 +5162,10 @@ remark@13.0.0:
     remark-stringify "^9.0.0"
     unified "^9.1.0"
 
-renovate@39.218.1:
-  version "39.218.1"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-39.218.1.tgz#0b33b42f3f545473d36123e4f3166b3eb21c0860"
-  integrity sha512-cM9KO80u7h6ILNAjZQl2I/LyEPcgSQNlOrqI9e9j+jocAzV8Xmxku4I4Pdoo7/W6n69680ecW/ItaVqBM739tw==
+renovate@39.219.2:
+  version "39.219.2"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-39.219.2.tgz#2e98cdec92fd94335c36abb13ea347c0f42bc676"
+  integrity sha512-rq652g7cGfm3admuY6a+yEKcqwT4arZfMsk2E/6XNwX7+xa+xvFjCLna2sBPesi8EB1S/8XsS/bLf1M32YZ+5A==
   dependencies:
     "@aws-sdk/client-codecommit" "3.738.0"
     "@aws-sdk/client-ec2" "3.738.0"
@@ -5174,7 +5174,7 @@ renovate@39.218.1:
     "@aws-sdk/client-rds" "3.740.0"
     "@aws-sdk/client-s3" "3.740.0"
     "@aws-sdk/credential-providers" "3.738.0"
-    "@baszalmstra/rattler" "0.2.0"
+    "@baszalmstra/rattler" "0.2.1"
     "@breejs/later" "4.2.0"
     "@cdktf/hcl2json" "0.20.11"
     "@opentelemetry/api" "1.9.0"
