@@ -2135,10 +2135,10 @@
   dependencies:
     "@types/node" "*"
 
-"@yarnpkg/core@4.3.0":
-  version "4.3.0"
-  resolved "https://registry.yarnpkg.com/@yarnpkg/core/-/core-4.3.0.tgz#1a620c917055ab4e7b939a9cc3ee13d6093cb1eb"
-  integrity sha512-7KdrddBCgYMT/rQePALrsWRmtKFvYH6dlEfftte0A1ItcQ6JVNsLBHIIzVlHxUQ9AyHMaVDt169zfBc7OzdMtw==
+"@yarnpkg/core@4.3.1":
+  version "4.3.1"
+  resolved "https://registry.yarnpkg.com/@yarnpkg/core/-/core-4.3.1.tgz#b2731d0f19e86c5633534c4564ae15db8ee3d16c"
+  integrity sha512-1C/Tw1SmUbC+82gL7BvOl0mpaacfu3MEwm6KWU4BaZWVFfz2OVFcAs/eKyljrv4IxJZ/fNyEU30sBLBpgkBDGA==
   dependencies:
     "@arcanis/slice-ansi" "^1.1.1"
     "@types/semver" "^7.1.0"
@@ -4916,10 +4916,10 @@ remark@13.0.0:
     remark-stringify "^9.0.0"
     unified "^9.1.0"
 
-renovate@39.233.4:
-  version "39.233.4"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-39.233.4.tgz#f65c0982115380c278dfc3e51b76c1fec063cb77"
-  integrity sha512-ehg5d97oyTf0jFWv8kBqz5e/Scfq1vqGkhhMTmNK0MUNF8klyGgv18i7eO76+bOQzoS/ndwiJR9d+3QkL9p99g==
+renovate@39.233.5:
+  version "39.233.5"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-39.233.5.tgz#55d3d279c875769a7e08784d188a0bd244b41bc6"
+  integrity sha512-x9I2k0MKZRCHxonLvXBBGHzxKrXJAaeRQ70EtrcqcCLyzCp1tWprjh1e3KcmFp4E4j+FLD43Uv3lTNOCAGqWkQ==
   dependencies:
     "@aws-sdk/client-codecommit" "3.777.0"
     "@aws-sdk/client-ec2" "3.779.0"
@@ -4949,7 +4949,7 @@ renovate@39.233.4:
     "@renovatebot/pep440" "4.1.0"
     "@renovatebot/ruby-semver" "4.0.0"
     "@sindresorhus/is" "4.6.0"
-    "@yarnpkg/core" "4.3.0"
+    "@yarnpkg/core" "4.3.1"
     "@yarnpkg/parsers" "3.0.3"
     agentkeepalive "4.6.0"
     aggregate-error "3.1.0"
