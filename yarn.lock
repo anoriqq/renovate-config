@@ -952,12 +952,12 @@
   resolved "https://registry.yarnpkg.com/@breejs/later/-/later-4.2.0.tgz#669661f3a02535ef900f360c74e48c3f5483c786"
   integrity sha512-EVMD0SgJtOuFeg0lAVbCwa+qeTKILb87jqvLyUtQswGD9+ce2nB52Y5zbTF1Hc0MDFfbydcMcxb47jSdhikVHA==
 
-"@cdktf/hcl2json@0.20.11":
-  version "0.20.11"
-  resolved "https://registry.yarnpkg.com/@cdktf/hcl2json/-/hcl2json-0.20.11.tgz#3b78c4afd89d99d825aa4376a30870fdc4c3d365"
-  integrity sha512-k4CJkbUPyI+k9KOQjJ6qu2dIrpqSkXukt9R+kDaizWVM4yc8HDMLHnelC0X2oWsfeQNE8wSAm20SXkGlPLoFmw==
+"@cdktf/hcl2json@0.20.12":
+  version "0.20.12"
+  resolved "https://registry.yarnpkg.com/@cdktf/hcl2json/-/hcl2json-0.20.12.tgz#998d95994c03143671a36b86defb0278268c1dfb"
+  integrity sha512-0kisly/cb4UK/cFhMAWMMEq+/FNFwPmDVoZ9ZphvDlXH62eytQcY5gaCxUrztKhncj2EYKovsTPbRq9C8GlRwg==
   dependencies:
-    fs-extra "11.2.0"
+    fs-extra "11.3.0"
 
 "@gwhitney/detect-indent@7.0.1":
   version "7.0.1"
@@ -3159,15 +3159,6 @@ fs-constants@^1.0.0:
   resolved "https://registry.yarnpkg.com/fs-constants/-/fs-constants-1.0.0.tgz#6be0de9be998ce16af8afc24497b9ee9b7ccd9ad"
   integrity sha512-y6OAwoSIf7FyjMIv94u+b5rdheZEjzR63GTyZJm5qh4Bi+2YgwLCcI/fPFZkL5PSixOt6ZNKm+w+Hfp/Bciwow==
 
-fs-extra@11.2.0:
-  version "11.2.0"
-  resolved "https://registry.yarnpkg.com/fs-extra/-/fs-extra-11.2.0.tgz#e70e17dfad64232287d01929399e0ea7c86b0e5b"
-  integrity sha512-PmDi3uwK5nFuXh7XDTlVnS17xJS7vW36is2+w3xcv8SVxiB4NyATf4ctkVY5bkSjX0Y4nbvZCq1/EjtEyr9ktw==
-  dependencies:
-    graceful-fs "^4.2.0"
-    jsonfile "^6.0.1"
-    universalify "^2.0.0"
-
 fs-extra@11.3.0, fs-extra@^11.2.0, fs-extra@^11.3.0:
   version "11.3.0"
   resolved "https://registry.yarnpkg.com/fs-extra/-/fs-extra-11.3.0.tgz#0daced136bbaf65a555a326719af931adc7a314d"
@@ -4963,10 +4954,10 @@ remark@13.0.0:
     remark-stringify "^9.0.0"
     unified "^9.1.0"
 
-renovate@39.254.2:
-  version "39.254.2"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-39.254.2.tgz#e20de64e5a61fe2f04c3488b08f8f01759031ec6"
-  integrity sha512-zXAvz9mDj1cQPHoqW9CYhHXz88f02kpzyOwT2voHEQl3hbkdCgJ9rnWs90g/ezhHgUPaKRGWCP68kd92MPU7tA==
+renovate@39.257.8:
+  version "39.257.8"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-39.257.8.tgz#ebd09c5e44d2d5ec1d858245b8fa2d058a6ecbf1"
+  integrity sha512-yMJrjMuqJjojO4/noD6XM9mCxJ0r87aFrzlfUS7jiDQtS+0iTBttp8WVhoeD4yQusS23siissn0dC9Vy4Rg4rw==
   dependencies:
     "@aws-sdk/client-codecommit" "3.777.0"
     "@aws-sdk/client-ec2" "3.779.0"
@@ -4977,7 +4968,7 @@ renovate@39.254.2:
     "@aws-sdk/credential-providers" "3.778.0"
     "@baszalmstra/rattler" "0.2.1"
     "@breejs/later" "4.2.0"
-    "@cdktf/hcl2json" "0.20.11"
+    "@cdktf/hcl2json" "0.20.12"
     "@opentelemetry/api" "1.9.0"
     "@opentelemetry/context-async-hooks" "2.0.0"
     "@opentelemetry/exporter-trace-otlp-http" "0.200.0"
@@ -5083,7 +5074,7 @@ renovate@39.254.2:
     vuln-vects "1.1.0"
     xmldoc "1.3.0"
     yaml "2.7.1"
-    zod "3.24.2"
+    zod "3.24.3"
   optionalDependencies:
     better-sqlite3 "11.9.1"
     openpgp "6.1.0"
@@ -6058,7 +6049,12 @@ yocto-queue@^0.1.0:
   resolved "https://registry.yarnpkg.com/yocto-queue/-/yocto-queue-0.1.0.tgz#0294eb3dee05028d31ee1a5fa2c556a6aaf10a1b"
   integrity sha512-rVksvsnNCdJ/ohGc6xgPwyN8eheCxsiLM8mxuE/t/mOVqJewPuO1miLpTHQiRgTKCLexL4MeAFVagts7HmNZ2Q==
 
-zod@3.24.2, zod@^3.23.0:
+zod@3.24.3:
+  version "3.24.3"
+  resolved "https://registry.yarnpkg.com/zod/-/zod-3.24.3.tgz#1f40f750a05e477396da64438e0e1c0995dafd87"
+  integrity sha512-HhY1oqzWCQWuUqvBFnsyrtZRhyPeR7SUGv+C4+MsisMuVfSPx8HpwWqH8tRahSlt6M3PiFAcoeFhZAqIXTxoSg==
+
+zod@^3.23.0:
   version "3.24.2"
   resolved "https://registry.yarnpkg.com/zod/-/zod-3.24.2.tgz#8efa74126287c675e92f46871cfc8d15c34372b3"
   integrity sha512-lY7CDW43ECgW9u1TcT3IoXHflywfVqDYze4waEz812jR/bZ8FHDsl7pFQoSZTz5N+2NqRXs8GBwnAwo3ZNxqhQ==
