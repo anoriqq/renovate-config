@@ -1282,10 +1282,10 @@
   resolved "https://registry.yarnpkg.com/@pnpm/constants/-/constants-1001.1.0.tgz#d08d0f39aca39f701fae1df9e017af676cdeebf5"
   integrity sha512-xb9dfSGi1qfUKY3r4Zy9JdC9+ZeaDxwfE7HrrGIEsBVY1hvIn6ntbR7A97z3nk44yX7vwbINNf9sizTp0WEtEw==
 
-"@pnpm/constants@1001.2.0":
-  version "1001.2.0"
-  resolved "https://registry.yarnpkg.com/@pnpm/constants/-/constants-1001.2.0.tgz#4bbda1ebe0d17cb7436c9fdea5c8900d5a6effe3"
-  integrity sha512-ohlStawRU3+C1AvUPtfkK+HfZ/5UbDGO79dujS2dbTpzl3O03L3Ggk7nnH361ubbMYZqp4yWlX030xhMGpr8Nw==
+"@pnpm/constants@1001.3.0":
+  version "1001.3.0"
+  resolved "https://registry.yarnpkg.com/@pnpm/constants/-/constants-1001.3.0.tgz#0c4954db9af54999ff9364602dba98d92be54703"
+  integrity sha512-ZFRekNHbDlu//67Byg+mG8zmtmCsfBhNsg1wKBLRtF7VjH+Q5TDGMX0+8aJYSikQDuzM2FOhvQcDwyjILKshJQ==
 
 "@pnpm/constants@6.1.0":
   version "6.1.0"
@@ -1307,11 +1307,11 @@
     "@pnpm/constants" "6.1.0"
 
 "@pnpm/error@^1000.0.2":
-  version "1000.0.3"
-  resolved "https://registry.yarnpkg.com/@pnpm/error/-/error-1000.0.3.tgz#17e295d92ade122fd2585cfc8af61f3866ef2c8a"
-  integrity sha512-Sr1wmJitZ768J+9MJVXXyd7tRaX3qThEiFH1K0AQovy2sIbLqo73MITphfVZH3YWIElt+Y1uMDnUZa676ZDA8g==
+  version "1000.0.4"
+  resolved "https://registry.yarnpkg.com/@pnpm/error/-/error-1000.0.4.tgz#4fac0fd7ec2222a4850e50152ac5cc884f5332df"
+  integrity sha512-22mG/Mq4u2r7gr2+XY5j4GlN7J4Mg4WiCfT9flvsUc1uZecShocv6WkyoA20qs14M64f6I+aaWB6b6xsDiITlg==
   dependencies:
-    "@pnpm/constants" "1001.2.0"
+    "@pnpm/constants" "1001.3.0"
 
 "@pnpm/graceful-fs@2.0.0":
   version "2.0.0"
